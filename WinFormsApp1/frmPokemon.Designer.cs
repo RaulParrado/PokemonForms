@@ -287,7 +287,6 @@
             this.txtPuntosDefensa.TabIndex = 20;
             this.txtPuntosDefensa.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtPuntosDefensa.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPuntos_KeyPress);
-
             // 
             // txtPuntosAtaque
             // 
@@ -298,7 +297,6 @@
             this.txtPuntosAtaque.TabIndex = 19;
             this.txtPuntosAtaque.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtPuntosAtaque.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPuntos_KeyPress);
-
             // 
             // lblPuntosDefensa
             // 
